@@ -1,6 +1,5 @@
 # php-study
-This is the repository for my PHP language study content.
-
+This repository contains the content of my study about PHP.
 
 - 👋 Hi, I’m @GustavoLoschi
 - 👀 I’m interested in PHP, Laravel, Dart, Flutter;
